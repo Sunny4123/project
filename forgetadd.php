@@ -27,6 +27,6 @@ if(isset($_SESSION['seedemail'])){
     unset($_SESSION['seedemail']);
 }else{
     echo "error";
-}
+}// new coomment
 ?>
 
