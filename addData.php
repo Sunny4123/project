@@ -70,7 +70,7 @@
             $result=mysqli_query($connect,$sql);
             header('location: homepage_1.php');
         }
-        //test
+        //com
 
     }
 ?>
